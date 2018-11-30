@@ -112,7 +112,7 @@
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Related Site Name</label>
+        <label>Site Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Production sites</pluralLabel>
